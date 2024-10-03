@@ -38,6 +38,6 @@ build/
 .DS_Store
 /mysql/
 /volume-data/
-/data/
+data/
 /docker/tempo/tempo-data/
 /docker/tempo/tempo-data/
