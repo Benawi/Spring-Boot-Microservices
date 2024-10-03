@@ -29,14 +29,13 @@ target/
 /.nb-gradle/
 build/
 !**/src/main/**/build/
-
+!**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
 
-### Windows OS ###
+### Mac OS ###
 .DS_Store
-.idea/
 /mysql/
 /volume-data/
 /data/
