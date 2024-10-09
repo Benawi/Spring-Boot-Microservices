@@ -83,7 +83,7 @@
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProductServiceApplicationTests">
+  <component name="RunManager" selected="Application.ProductServiceApplication">
     <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techie.microservices.product.ProductServiceApplication" />
       <module name="product-service" />
@@ -122,8 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProductServiceApplicationTests" />
         <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="JUnit.ProductServiceApplicationTests" />
         <item itemvalue="JUnit.All in product-service" />
       </list>
     </recent_temporary>
