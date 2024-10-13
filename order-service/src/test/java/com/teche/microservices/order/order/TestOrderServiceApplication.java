@@ -1,5 +1,6 @@
-package com.teche.microservices.order;
+package com.teche.microservices.order.order;
 
+import com.teche.microservices.order.OrderServiceApplication;
 import org.springframework.boot.SpringApplication;
 
 public class TestOrderServiceApplication {

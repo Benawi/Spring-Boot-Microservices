@@ -1,4 +1,4 @@
-package com.teche.microservices.order;
+package com.teche.microservices.order.order;
 
 import org.springframework.boot.test.context.TestConfiguration;
 import org.springframework.boot.testcontainers.service.connection.ServiceConnection;
