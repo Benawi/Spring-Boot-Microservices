@@ -1,4 +1,4 @@
-package model;
+package com.teche.microservices.order.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
