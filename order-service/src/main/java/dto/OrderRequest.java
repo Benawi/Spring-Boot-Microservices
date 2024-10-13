@@ -1,2 +1,7 @@
-package dto;public record OrderRequest() {
+package dto;
+
+import java.math.BigDecimal;
+
+public record OrderRequest(long id, String orderNumber, String skuCode, BigDecimal
+                            price, Integer quantity) {
 }
