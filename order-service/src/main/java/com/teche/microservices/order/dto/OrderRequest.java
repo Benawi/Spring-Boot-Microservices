@@ -1,4 +1,4 @@
-package dto;
+package com.teche.microservices.order.dto;
 
 import java.math.BigDecimal;
 
