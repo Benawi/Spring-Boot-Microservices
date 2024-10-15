@@ -21,7 +21,7 @@ The technologies used in this project are:
 - MySQL
 - Kafka
 - Keycloak
-- Test Containers with Wiremock
+- Test Containers with Wiremock.
 - Grafana Stack (Prometheus, Grafana, Loki and Tempo)
 - API Gateway using Spring Cloud Gateway MVC
 - Kubernetes
