@@ -15,7 +15,7 @@ This repository contains the latest source code of the spring-boot-microservices
 
 The technologies used in this project are:
 
-- Spring Boot
+- Spring Boot.
 - Angular
 - Mongo DB
 - MySQL
