@@ -20,9 +20,10 @@ public class OrderController  {
         orderService.placeOrder(orderRequest);
         return "Order Place successfully";
     }
+    
     @GetMapping
     @ResponseStatus(HttpStatus.OK)
-    public List<OrderResponse> getAllOrders(){
+    public  List<OrderResponse> getAllOrders(){
         return orderService.getAllOrders();
     }
 }
